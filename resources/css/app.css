@@ -1,0 +1,21 @@
+body {
+    background-color: #f3f3f3;
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #FF8C42;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+.nav a:hover {
+    color: #FF8C42;
+}
